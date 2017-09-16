@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace lab04-miya
+namespace lab04_miya
 {
-    class Desert
+    abstract class Desert : Africa
     {
     }
 }

@@ -2,9 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace lab04-miya
+namespace lab04_miya
 {
-    class Tundra
+    abstract class Tundra : Antarctica
     {
+        public Tundra(int eyes, int legs) : base(eyes, legs)
+        {
+        }
     }
 }

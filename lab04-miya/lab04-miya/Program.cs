@@ -7,6 +7,9 @@ namespace lab04_miya
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            PolarBear Antarctic = new PolarBear();
+
         }
     }
 }

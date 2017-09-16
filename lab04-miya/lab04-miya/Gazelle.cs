@@ -2,9 +2,13 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace lab04-miya
+namespace lab04_miya
 {
-    class Gazelle
+    class Gazelle : Desert
     {
+        public override void Eat()
+        {
+            //throw new NotImplementedException();
+        }
     }
 }

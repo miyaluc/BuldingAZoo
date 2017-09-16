@@ -1,0 +1,4 @@
+C:\Users\shami\source\repos\BuldingAZoo\lab04-miya\lab04-miya\obj\Debug\netcoreapp2.0\lab04-miya.csprojResolveAssemblyReference.cache
+C:\Users\shami\source\repos\BuldingAZoo\lab04-miya\lab04-miya\obj\Debug\netcoreapp2.0\lab04-miya.csproj.CoreCompileInputs.cache
+C:\Users\shami\source\repos\BuldingAZoo\lab04-miya\lab04-miya\obj\Debug\netcoreapp2.0\lab04-miya.AssemblyInfoInputs.cache
+C:\Users\shami\source\repos\BuldingAZoo\lab04-miya\lab04-miya\obj\Debug\netcoreapp2.0\lab04-miya.AssemblyInfo.cs

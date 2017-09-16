@@ -2,9 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace lab04-miya
+namespace lab04_miya
 {
-    class Jungle
+    abstract class Jungle : Africa
     {
+        public Jungle(int eyes, int legs) : base(eyes, legs)
+        {
+        }
     }
 }
