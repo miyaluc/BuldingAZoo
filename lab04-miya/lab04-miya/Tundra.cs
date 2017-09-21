@@ -8,6 +8,8 @@ namespace lab04_miya
     {
         public Tundra(int eyes, int legs) : base(eyes, legs)
         {
+            eyes = 2;
+            legs = 4;
         }
     }
 }

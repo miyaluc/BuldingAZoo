@@ -8,8 +8,23 @@ namespace lab04_miya
         {
             Console.WriteLine("Hello World!");
 
-            PolarBear Antarctic = new PolarBear();
+            PolarBear Antarctic = new PolarBear(2, 4);
+            Antarctic.Eat();
 
+            Gazelle Dama = new Gazelle(2, 4);
+            Dama.IsPrey();
+            Dama.Eat();
+
+            Gorilla HiddenMist = new Gorilla(2, 2);
+            HiddenMist.Eat();
+            HiddenMist.HasTail();
+
+            Penguin Subarctic = new Penguin(2, 2);
+            Subarctic.Eat();
+            
+            Console.WriteLine();
+
+            Console.Read();
         }
     }
 }

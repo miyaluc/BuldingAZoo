@@ -15,6 +15,7 @@ namespace lab04_miya
 
         public override void Eat()
         {
+            Console.WriteLine("Polar bears love fish.");
             //throw new NotImplementedException();
         }
     }
