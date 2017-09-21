@@ -8,6 +8,8 @@ namespace lab04_miya
     {
         public Jungle(int eyes, int legs) : base(eyes, legs)
         {
+            eyes = 0;
+            legs = 0;
         }
     }
 }
